@@ -1,0 +1,7 @@
+{
+  "name": "Dropbox-Uploader",
+  "bin": {
+    "dropbox-uploader": "./dropbox-uploader.sh"
+  },
+  "version": "0.0.1"
+}
