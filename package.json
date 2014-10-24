@@ -1,7 +1,8 @@
 {
   "name": "Dropbox-Uploader",
+  "description": "npm-packaged fork of the Dropbox-Uploader project",
   "bin": {
-    "dropbox-uploader": "./dropbox-uploader.sh"
+    "dropbox-uploader": "./dropbox_uploader.sh"
   },
   "version": "0.0.1"
 }
