@@ -1,5 +1,6 @@
 {
   "name": "Dropbox-Uploader",
+  "main": "./dbup.js",
   "description": "npm-packaged fork of the Dropbox-Uploader project",
   "bin": {
     "dropbox-uploader": "./dropbox_uploader.sh"
